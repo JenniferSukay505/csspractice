@@ -162,7 +162,7 @@ p {
 
 #small-stars,
 #small-stars-2 {
-	background: url(/space/img/stars-small.png) no-repeat center center;
+	background: url(../img/stars-small.png) no-repeat center center;
 	-webkit-animation-duration: 15s;
 	-webkit-animation-name: starsSmall;
 }
